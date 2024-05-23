@@ -1,0 +1,2 @@
+This is a lattice-based blockchain simulation project of my work.
+If you would like to use it, you will refer my paper named "A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management"
